@@ -2,7 +2,7 @@
 
 Learning about MCP server
 
-Substack Post Link: https://open.substack.com/pub/booleanbit1/p/mcp?r=z6l5o&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+Substack Post Link: [https://booleanbit1.substack.com/p/mcp](https://booleanbit1.substack.com/p/mcp)
 
 In cursor settings you can add this MCP server by giving the path of the index.js file, and then claude will be able to run this server to get answers of the questions like "How is the weather of Bellevue?" etc.
 
